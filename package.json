@@ -1,0 +1,30 @@
+{
+  "name": "parcel-learn-basic",
+  "version": "1.0.0",
+  "description": "Just a file using parcel",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavks3112/parcel-learn-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavks3112/parcel-learn-basic/issues"
+  },
+  "homepage": "https://github.com/abhinavks3112/parcel-learn-basic#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "parcel-bundler": "^1.11.0"
+  }
+}
